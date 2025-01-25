@@ -41,4 +41,4 @@ This project is a comprehensive Sports Field Scheduling and Booking System devel
 - **Guidance and Mentorship**: The project was developed under the guidance of Professor Benaiah Zand.
 
 ## Rights and Attribution
-All rights reserved © Segev Chen, yagel batito
+All rights reserved © Segev Chen, Yagel Batito
